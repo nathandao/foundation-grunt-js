@@ -94,18 +94,18 @@ module.exports = function(grunt) {
           '<%= jshint.all %>'
         ],
         tasks: ['jshint']
-      }
-    },
-
-    livereload: {
-      options: {
-        livereload: true
       },
-      files: [
-        'js/app.min.js',
-        'css/app.css',
-        '*.php'
-      ]
+
+      livereload: {
+        options: {
+          livereload: true
+        },
+        files: [
+          'js/app.min.js',
+          'css/app.css',
+          '*.php'
+        ]
+      }
     }
 
   });
