@@ -15,7 +15,7 @@ You'll need to have the following items installed before continuing.
 ## Quickstart
 
 ```bash
-git clone git@github.com:zurb/foundation-libsass-template.git
+git clone git@github.com:nathandao/foundation-grunt-js.git
 npm install && bower install
 ```
 
