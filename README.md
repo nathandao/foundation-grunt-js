@@ -15,7 +15,7 @@ You'll need to have the following items installed before continuing.
 ## Quickstart
 
 ```bash
-git clone git@github.com:nathandao/foundation-grunt-js.git
+git clone https://github.com/nathandao/foundation-grunt-js.git
 npm install && bower install
 ```
 
@@ -30,5 +30,5 @@ And you're set!
 
 ## Directory Structure
 
-  * `scss/_settings.scss`: Foundation configuration settings go in here
+  * `scss/_settings.scss`: Foundation configuration settings go in hgit add ere
   * `scss/app.scss`: Application styles go here
