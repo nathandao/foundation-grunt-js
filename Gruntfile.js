@@ -5,7 +5,7 @@ module.exports = function(grunt) {
   // Include only what you want! No trailing ","!
   var jsLibs = [
     'bower_components/foundation/js/vendor/modernizr.js',
-    'bower_components/foundation/js/vendor/jquery.js'
+    'bower_components/foundation/js/vendor/jquery.js',
     'bower_components/foundation/js/vendor/jquery.cookie.js',
     'bower_components/foundation/js/vendor/placeholder.js',
     'bower_components/foundation/js/vendor/fastclick.js'
