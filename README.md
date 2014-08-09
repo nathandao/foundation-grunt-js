@@ -1,6 +1,8 @@
-# Foundation libsass template
+# Foundation libsass template with Grunt configured for javascript
 
 This is a template to start your own project that uses Grunt and libsass!
+
+Come with Grunt configurations for javascript
 
 ## Requirements
 
@@ -17,9 +19,12 @@ git clone git@github.com:zurb/foundation-libsass-template.git
 npm install && bower install
 ```
 
-While you're working on your project, run:
+Include on your required libraries in jsFoundation and jsLibs in Gruntfile.js
 
-`grunt`
+While you're working on your project, run:
+`npm install`
+`grunt build`
+`grunt watch`
 
 And you're set!
 
