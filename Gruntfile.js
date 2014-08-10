@@ -93,7 +93,7 @@ module.exports = function(grunt) {
           jsFoundation,
           '<%= jshint.all %>'
         ],
-        tasks: ['jshint']
+        tasks: ['jshint', 'uglify']
       },
 
       livereload: {
