@@ -23,13 +23,7 @@ Include on your required libraries in jsFoundation and jsLibs in Gruntfile.js
 
 While you're working on your project, run:
 
-`bower install`
-
-`npm install`
-
-`grunt build`
-
-`grunt watch`
+```grunt build && grunt watch```
 
 And you're set!
 
