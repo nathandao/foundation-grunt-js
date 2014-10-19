@@ -27,6 +27,9 @@ While you're working on your project, run:
 
 And you're set!
 
+## Important note
+The latest version of foundation uses
+
 ## Directory Structure
 
   * `scss/_settings.scss`: Foundation configuration settings go in hgit add ere
